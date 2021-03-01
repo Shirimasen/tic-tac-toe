@@ -1,2 +1,2 @@
 # tic-tac-toe
-https://shirimasen.github.io/tic-tac-toe/
+https://badgyro.github.io/tic-tac-toe/
